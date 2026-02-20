@@ -1,4 +1,4 @@
-// File: D:\arcade\src\app\badges\page.tsx
+// File: D:\Git\arcadetracker\src\app\badges\page.tsx
 import * as entry from '../../../../src/app/badges/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

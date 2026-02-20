@@ -1,4 +1,4 @@
-// File: D:\arcade\src\app\api\scrape\route.ts
+// File: D:\Git\arcadetracker\src\app\api\scrape\route.ts
 import * as entry from '../../../../../src/app/api/scrape/route.js'
 import type { NextRequest } from 'next/server.js'
 

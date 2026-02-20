@@ -1,11 +1,6 @@
 {
-  "/api/scrape/route": "app/api/scrape/route.js",
-  "/badges/page": "app/badges/page.js",
-  "/calculator/page": "app/calculator/page.js",
-  "/leaderboard/page": "app/leaderboard/page.js",
-  "/resources/page": "app/resources/page.js",
-  "/faqs/page": "app/faqs/page.js",
-  "/query/page": "app/query/page.js",
   "/page": "app/page.js",
-  "/about/page": "app/about/page.js"
+  "/badges/page": "app/badges/page.js",
+  "/api/scrape/route": "app/api/scrape/route.js",
+  "/calculator/page": "app/calculator/page.js"
 }
