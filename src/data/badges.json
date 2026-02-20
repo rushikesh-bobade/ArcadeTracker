@@ -1,0 +1,370 @@
+[
+  {
+    "id": "arcade-jan-2025",
+    "name": "The Arcade January 2025",
+    "type": "arcade",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/RLN58lf0FRnCBRpzXY28p6g60aG3qnDxBjbFgNiB%2B0k%3D",
+    "link": "https://www.cloudskillsboost.google/games/5478"
+  },
+  {
+    "id": "arcade-feb-2025",
+    "name": "The Arcade February 2025",
+    "type": "arcade",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/g2hzd6RxEYj5YR0jOk2pzrpBQKLdJH0E2P6k0Cw%2BMXI%3D",
+    "link": "https://www.cloudskillsboost.google/games/5600"
+  },
+  {
+    "id": "arcade-mar-2025",
+    "name": "The Arcade March 2025",
+    "type": "arcade",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/yNJkZQFBzLBkHKMnkQ4Y6Kf8N8GR5e3RtLsPl3DKDUY%3D",
+    "link": "https://www.cloudskillsboost.google/games/5700"
+  },
+  {
+    "id": "arcade-apr-2025",
+    "name": "The Arcade April 2025",
+    "type": "arcade",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/yNJkZQFBzLBkHKMnkQ4Y6Kf8N8GR5e3RtLsPl3DKDUY%3D",
+    "link": "https://www.cloudskillsboost.google/games/5800"
+  },
+  {
+    "id": "arcade-may-2025",
+    "name": "The Arcade May 2025",
+    "type": "arcade",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/yNJkZQFBzLBkHKMnkQ4Y6Kf8N8GR5e3RtLsPl3DKDUY%3D",
+    "link": "https://www.cloudskillsboost.google/games/5900"
+  },
+  {
+    "id": "arcade-jun-2025",
+    "name": "The Arcade June 2025",
+    "type": "arcade",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/yNJkZQFBzLBkHKMnkQ4Y6Kf8N8GR5e3RtLsPl3DKDUY%3D",
+    "link": "https://www.cloudskillsboost.google/games/6000"
+  },
+  {
+    "id": "trivia-w1-jan-2025",
+    "name": "Arcade Trivia Week 1 January 2025",
+    "type": "trivia",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/9RznPm5sKBpOA%2FMjVm9k3tWWHrIfasCsJkXnwN3xQgs%3D",
+    "link": "https://www.cloudskillsboost.google/games/5478/labs/35097"
+  },
+  {
+    "id": "trivia-w2-jan-2025",
+    "name": "Arcade Trivia Week 2 January 2025",
+    "type": "trivia",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/3kVpP6AHSmf0SL7lKK6GnHVx5nH7L9jGIE3gIFZy%2Ftw%3D",
+    "link": "https://www.cloudskillsboost.google/games/5478/labs/35098"
+  },
+  {
+    "id": "trivia-w3-jan-2025",
+    "name": "Arcade Trivia Week 3 January 2025",
+    "type": "trivia",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/bFm0JGCYmWvVN9IbCSHCRRUbvaxfClYYFLiJQ6i%2BQ5U%3D",
+    "link": "https://www.cloudskillsboost.google/games/5478/labs/35099"
+  },
+  {
+    "id": "trivia-w4-jan-2025",
+    "name": "Arcade Trivia Week 4 January 2025",
+    "type": "trivia",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/G7TuITmyGbQ%2BHHIf8M7XJ4Dg%2BjV8FKvIl7fzWoaT8pk%3D",
+    "link": "https://www.cloudskillsboost.google/games/5478/labs/35100"
+  },
+  {
+    "id": "trivia-w1-feb-2025",
+    "name": "Arcade Trivia Week 1 February 2025",
+    "type": "trivia",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/9RznPm5sKBpOA%2FMjVm9k3tWWHrIfasCsJkXnwN3xQgs%3D",
+    "link": "https://www.cloudskillsboost.google/games/5600/labs/35200"
+  },
+  {
+    "id": "trivia-w2-feb-2025",
+    "name": "Arcade Trivia Week 2 February 2025",
+    "type": "trivia",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/3kVpP6AHSmf0SL7lKK6GnHVx5nH7L9jGIE3gIFZy%2Ftw%3D",
+    "link": "https://www.cloudskillsboost.google/games/5600/labs/35201"
+  },
+  {
+    "id": "trivia-w3-feb-2025",
+    "name": "Arcade Trivia Week 3 February 2025",
+    "type": "trivia",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/bFm0JGCYmWvVN9IbCSHCRRUbvaxfClYYFLiJQ6i%2BQ5U%3D",
+    "link": "https://www.cloudskillsboost.google/games/5600/labs/35202"
+  },
+  {
+    "id": "trivia-w4-feb-2025",
+    "name": "Arcade Trivia Week 4 February 2025",
+    "type": "trivia",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/G7TuITmyGbQ%2BHHIf8M7XJ4Dg%2BjV8FKvIl7fzWoaT8pk%3D",
+    "link": "https://www.cloudskillsboost.google/games/5600/labs/35203"
+  },
+  {
+    "id": "trivia-w1-mar-2025",
+    "name": "Arcade Trivia Week 1 March 2025",
+    "type": "trivia",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/9RznPm5sKBpOA%2FMjVm9k3tWWHrIfasCsJkXnwN3xQgs%3D",
+    "link": "https://www.cloudskillsboost.google/games/5700/labs/35300"
+  },
+  {
+    "id": "trivia-w2-mar-2025",
+    "name": "Arcade Trivia Week 2 March 2025",
+    "type": "trivia",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/3kVpP6AHSmf0SL7lKK6GnHVx5nH7L9jGIE3gIFZy%2Ftw%3D",
+    "link": "https://www.cloudskillsboost.google/games/5700/labs/35301"
+  },
+  {
+    "id": "trivia-w3-mar-2025",
+    "name": "Arcade Trivia Week 3 March 2025",
+    "type": "trivia",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/bFm0JGCYmWvVN9IbCSHCRRUbvaxfClYYFLiJQ6i%2BQ5U%3D",
+    "link": "https://www.cloudskillsboost.google/games/5700/labs/35302"
+  },
+  {
+    "id": "trivia-w4-mar-2025",
+    "name": "Arcade Trivia Week 4 March 2025",
+    "type": "trivia",
+    "points": 1,
+    "imageUrl": "https://cdn.qwiklabs.com/G7TuITmyGbQ%2BHHIf8M7XJ4Dg%2BjV8FKvIl7fzWoaT8pk%3D",
+    "link": "https://www.cloudskillsboost.google/games/5700/labs/35303"
+  },
+  {
+    "id": "skill-genai-essentials",
+    "name": "Prompt Design in Vertex AI",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/RHiuAHIwWiELWNfqQhSyQsb8cAfKRjEHIbMH8nJhbkg%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/976"
+  },
+  {
+    "id": "skill-vertex-ai-studio",
+    "name": "Develop GenAI Apps with Gemini and Streamlit",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/a7fxDK7Ck43H0uBl5kAGBCiqNOtHrZqkrE9YJlCaFwM%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/978"
+  },
+  {
+    "id": "skill-gemini-workspace",
+    "name": "Gemini in Google Workspace",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/TDHDmQBH7xdFl2JNnzoCr5qlc0l83F4lYB4dE%2BKxXPQ%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/780"
+  },
+  {
+    "id": "skill-responsible-ai",
+    "name": "Responsible AI: Applying AI Principles with Google Cloud",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/rDjSqXPMZ2PGNi%2FqK4JjPLjXjKxE4QUZN%2BEYeKLiAhE%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/388"
+  },
+  {
+    "id": "skill-cloud-functions",
+    "name": "Cloud Functions: 3 Ways",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/ioVtCuMzLLMJiPmJOCMdQXlMJfIDDEAM3bFKRPKO5VI%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/696"
+  },
+  {
+    "id": "skill-cloud-run",
+    "name": "Developing Applications with Cloud Run on Google Cloud",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/kZNwFGIr%2B1%2FOVlBp3b2NpQ9dkP4wJx6Bh7ORF5%2BN0MM%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/741"
+  },
+  {
+    "id": "skill-kubernetes",
+    "name": "Kubernetes in Google Cloud",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/Vq5AwF0HFvpkIAeMDWOy8wX3PriRCxNzjv6w1p9m8z4%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/783"
+  },
+  {
+    "id": "skill-bigquery",
+    "name": "Analyze BigQuery Data in Connected Sheets",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/GNKJFRqaUb4J3GHsO3cj3ow1y5uH%2BwJLLAqB5T1NHZM%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/632"
+  },
+  {
+    "id": "skill-looker",
+    "name": "Looker Data Explorer",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/vRTuqNsA7tGvbRSnLKvdN%2BolKRa0vbRFTfHrSMiNfAI%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/628"
+  },
+  {
+    "id": "skill-networking",
+    "name": "Networking Fundamentals in Google Cloud",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/X0H9nPQiNWQlHQfFwGflvlvkR8DpY9DJuE9Jk2cNlxo%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/748"
+  },
+  {
+    "id": "skill-security-fundamentals",
+    "name": "Security and Identity Fundamentals",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/rK5nOqKXl%2B0vlQtdFW9S7J3mFOzIg%2FVXiCqRxPnVBUQ%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/764"
+  },
+  {
+    "id": "skill-devops",
+    "name": "Implement DevOps Workflows in Google Cloud",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/Gn5DW1WEMtWrLON1P9y39V5HBvVb7u8NAtQ%2BlHvS4cQ%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/716"
+  },
+  {
+    "id": "skill-data-analytics",
+    "name": "Create a Streaming Data Lake on Cloud Storage",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/dW6N5KfbDqGBaXpB8eTdm8v5OOp37pnlv0tGiKQYQJU%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/705"
+  },
+  {
+    "id": "skill-terraform",
+    "name": "Managing Infrastructure as Code with Terraform",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/b%2FkYL5ZB0iRiH%2BznIuXk1PFo%2B%2BtUZ0Lf0ROqrj8CNRY%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/443"
+  },
+  {
+    "id": "skill-gke",
+    "name": "Optimize Costs for Google Kubernetes Engine",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/OXcS3mIbmTb%2B1RJD9e9cJlIbAMq8bD3U4L7Ul6HPKQQ%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/655"
+  },
+  {
+    "id": "skill-pub-sub",
+    "name": "Streaming Analytics into BigQuery",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/jt37X%2BqG5GnLKrEMRkPVn%2BKjkBIjV%2Bz3czZ3fS%2Bh9SM%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/752"
+  },
+  {
+    "id": "skill-apigee",
+    "name": "API Design and Fundamentals of Google Cloud's Apigee API Platform",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/C7skbKr3r5sXE1AvBi1%2B7vrdBHpQiNfG%2BRjSAfVUqaE%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/716"
+  },
+  {
+    "id": "skill-cloud-sql",
+    "name": "Cloud SQL for MySQL: Qwik Start",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/h4B9iHtLhb8cXJPuKPzj7XnvdWL5Y6qz%2Br8f3cP3Y1Q%3D",
+    "link": "https://www.cloudskillsboost.google/focuses/936"
+  },
+  {
+    "id": "skill-spanner",
+    "name": "Cloud Spanner: Fundamentals",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/9OT4B7yK2kSJJyAKxPg8fxEnIFr6qBEzZ2mnTvLz1MA%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/785"
+  },
+  {
+    "id": "skill-firestore",
+    "name": "Build a Serverless App with Cloud Run that Creates PDF Files",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/TzH5hUXpzLJ0T8C7r1I7X%2FXnCJGRvDUCFCHhMxX5Nt8%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/648"
+  },
+  {
+    "id": "skill-automl",
+    "name": "Identify Damaged Car Parts with Vertex AutoML Vision",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/0qIrpC9Uu%2BFB0v1%2FCx94xJtQ7lrxv3%2BKv42kLM8VEkE%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/787"
+  },
+  {
+    "id": "skill-speech-api",
+    "name": "Speech-to-Text API: Qwik Start",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/MAmOCFLXR8w4c1P7MlhH5PNWW9YLtFfq0Q0k3MaZ%2FsE%3D",
+    "link": "https://www.cloudskillsboost.google/focuses/2187"
+  },
+  {
+    "id": "skill-vision-api",
+    "name": "Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/1HVdwFl3p3OPBKKg6xMJ6C9M%2FfUCgMxuVy2Fv3CUzQg%3D",
+    "link": "https://www.cloudskillsboost.google/focuses/1841"
+  },
+  {
+    "id": "skill-nlp-api",
+    "name": "Entity and Sentiment Analysis with the Natural Language API",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/Mz2nTFtpzE1BaxmkqORbPkXMbH0CIIiDAiT%2BxL5nTq8%3D",
+    "link": "https://www.cloudskillsboost.google/focuses/1843"
+  },
+  {
+    "id": "skill-translation-api",
+    "name": "Cloud Translation API: Qwik Start",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/oE0JaS5aaGXOalb%2FZ3TvhKlWEWm5GQaKWjyj1uu2p7A%3D",
+    "link": "https://www.cloudskillsboost.google/focuses/697"
+  },
+  {
+    "id": "skill-document-ai",
+    "name": "Document AI: Qwik Start",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/rn6pFdI1Gv9vvBIK4vbX5yv87JHJlJ5K%2BlI9ORRJL3o%3D",
+    "link": "https://www.cloudskillsboost.google/focuses/21027"
+  },
+  {
+    "id": "skill-monitoring",
+    "name": "Monitor and Manage Google Cloud Resources",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/Wz2E7JlkFtMILTJGlb%2FW4cEtTFZ%2BJoFd14qRWyFqEBs%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/653"
+  },
+  {
+    "id": "skill-logging",
+    "name": "Logging, Monitoring and Observability in Google Cloud",
+    "type": "skill",
+    "points": 0.5,
+    "imageUrl": "https://cdn.qwiklabs.com/BEA4u7JYgDTBmHHqkLuSHm8jMz57X7FGkf9YFJBiLLU%3D",
+    "link": "https://www.cloudskillsboost.google/course_templates/99"
+  }
+]
